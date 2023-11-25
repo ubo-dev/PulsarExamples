@@ -1,0 +1,29 @@
+
+J
+java:S3740#"/Provide the parametrized type for this generic.(ŠÑÒüÿÿÿÿ
+J
+java:S3740,"/Provide the parametrized type for this generic.(ñß¸Ÿÿÿÿÿÿ
+g
+java:S1192"QUse already-defined constant 'SERVICE_URL' instead of duplicating its value here.(†¾ç
+_
+java:S1192"IDefine a constant instead of duplicating this literal "my-topic" 3 times.(¤‚³
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö“¾ù
+a
+java:S2095"FUse try-with-resources or close this "Producer" in a "finally" clause.(“ù—Çşÿÿÿÿ
+\
+java:S2095"FUse try-with-resources or close this "Producer" in a "finally" clause.(¹éÙ
+]
+java:S1854,"BRemove this useless assignment to local variable "stringConsumer".(ñß¸Ÿÿÿÿÿÿ
+E	java:S106%"+Replace this use of System.out by a logger.(¹ˆ¼Ñıÿÿÿÿ
+N
+java:S1481,"3Remove this unused "stringConsumer" local variable.(ñß¸Ÿÿÿÿÿÿ
+Q	java:S125?"<This block of commented-out lines of code should be removed.(×¶‚«
+R
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ
+E
+java:S1068	"/Remove this unused "SERVICE_URL" private field.(õ÷ôÃ
+D
+java:S1068
+".Remove this unused "TOPIC_NAME" private field.(‰›”¯
+P
+java:S1068"5Remove this unused "SUBSCRIPTION_NAME" private field.(®–¤ºıÿÿÿÿ
